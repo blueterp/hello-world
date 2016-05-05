@@ -1,2 +1,2 @@
 # hello-world
-This is my first attempt at using github
+"I see a bad ass mother, who want take no crap off of no body"
